@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/c0dezer0/manishkumar/issues"
   },
-  "homepage": "https://github.com/c0dezer0/manishkumar#readme"
+  "homepage": "https://github.com/c0dezer0/manishkumar#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
