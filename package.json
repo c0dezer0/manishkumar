@@ -1,0 +1,23 @@
+{
+  "name": "manishkumar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c0dezer0/manishkumar.git"
+  },
+  "keywords": [
+    "manish",
+    "kumar"
+  ],
+  "author": "Manish kumar <mail2manish15@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c0dezer0/manishkumar/issues"
+  },
+  "homepage": "https://github.com/c0dezer0/manishkumar#readme"
+}
